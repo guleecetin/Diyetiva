@@ -1,0 +1,6 @@
+@Diyetiva.WebApi_HostAddress = http://localhost:5140
+
+GET {{Diyetiva.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
