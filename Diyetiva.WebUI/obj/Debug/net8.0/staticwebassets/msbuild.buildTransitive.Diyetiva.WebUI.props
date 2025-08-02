@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Diyetiva.WebUI.props" />
+</Project>

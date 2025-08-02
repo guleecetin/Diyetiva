@@ -146,3 +146,5 @@ C:\Users\gulen\source\repos\Diyetiva\Diyetiva.WebApi\obj\Debug\net8.0\refint\Diy
 C:\Users\gulen\source\repos\Diyetiva\Diyetiva.WebApi\obj\Debug\net8.0\Diyetiva.WebApi.pdb
 C:\Users\gulen\source\repos\Diyetiva\Diyetiva.WebApi\obj\Debug\net8.0\Diyetiva.WebApi.genruntimeconfig.cache
 C:\Users\gulen\source\repos\Diyetiva\Diyetiva.WebApi\obj\Debug\net8.0\ref\Diyetiva.WebApi.dll
+C:\Users\gulen\source\repos\Diyetiva\Diyetiva.WebApi\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\gulen\source\repos\Diyetiva\Diyetiva.WebApi\bin\Debug\net8.0\FluentValidation.dll

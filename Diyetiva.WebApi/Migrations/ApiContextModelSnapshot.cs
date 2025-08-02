@@ -190,6 +190,9 @@ namespace Diyetiva.WebApi.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ProductId"));
 
+                    b.Property<int?>("CategoryId")
+                        .HasColumnType("int");
+
                     b.Property<string>("Description")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -203,6 +206,8 @@ namespace Diyetiva.WebApi.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("ProductId");
+
+                    b.HasIndex("CategoryId");
 
                     b.ToTable("Products");
                 });
@@ -299,6 +304,20 @@ namespace Diyetiva.WebApi.Migrations
                     b.HasKey("TestimonialId");
 
                     b.ToTable("Testimonials");
+                });
+
+            modelBuilder.Entity("Diyetiva.WebApi.Entities.Product", b =>
+                {
+                    b.HasOne("Diyetiva.WebApi.Entities.Category", "Category")
+                        .WithMany("Products")
+                        .HasForeignKey("CategoryId");
+
+                    b.Navigation("Category");
+                });
+
+            modelBuilder.Entity("Diyetiva.WebApi.Entities.Category", b =>
+                {
+                    b.Navigation("Products");
                 });
 #pragma warning restore 612, 618
         }

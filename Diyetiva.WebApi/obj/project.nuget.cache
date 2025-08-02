@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "+UyoNQp/478=",
+  "dgSpecHash": "QlUs7N1Aeuw=",
   "success": true,
   "projectFilePath": "C:\\Users\\gulen\\source\\repos\\Diyetiva\\Diyetiva.WebApi\\Diyetiva.WebApi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\gulen\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\gulen\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\gulen\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
+    "C:\\Users\\gulen\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",
     "C:\\Users\\gulen\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\gulen\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\gulen\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",

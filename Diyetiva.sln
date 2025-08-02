@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diyetiva.WebApi", "Diyetiva.WebApi\Diyetiva.WebApi.csproj", "{4A7EBA9A-5B1D-422C-8EFC-06C903FC91D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diyetiva.WebUI", "Diyetiva.WebUI\Diyetiva.WebUI.csproj", "{8FD150D9-7398-4A2A-B728-843BB9E30789}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4A7EBA9A-5B1D-422C-8EFC-06C903FC91D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A7EBA9A-5B1D-422C-8EFC-06C903FC91D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A7EBA9A-5B1D-422C-8EFC-06C903FC91D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FD150D9-7398-4A2A-B728-843BB9E30789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FD150D9-7398-4A2A-B728-843BB9E30789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FD150D9-7398-4A2A-B728-843BB9E30789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FD150D9-7398-4A2A-B728-843BB9E30789}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
