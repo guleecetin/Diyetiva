@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Diyetiva.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+393dea2e0929b0c650793c3321df6c813d1769c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12d51e7b4e1a940984410807d2f6c842b7b9862c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Diyetiva.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Diyetiva.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

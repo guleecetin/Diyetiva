@@ -7,12 +7,24 @@
       "RelativeMoniker": "D:0:0:{8FD150D9-7398-4A2A-B728-843BB9E30789}|Diyetiva.WebUI\\Diyetiva.WebUI.csproj|solutionrelative:diyetiva.webui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FD150D9-7398-4A2A-B728-843BB9E30789}|Diyetiva.WebUI\\Diyetiva.WebUI.csproj|c:\\users\\gulen\\source\\repos\\diyetiva\\diyetiva.webui\\requirements\\nedenkubraakkurt.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8FD150D9-7398-4A2A-B728-843BB9E30789}|Diyetiva.WebUI\\Diyetiva.WebUI.csproj|solutionrelative:diyetiva.webui\\requirements\\nedenkubraakkurt.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{8FD150D9-7398-4A2A-B728-843BB9E30789}|Diyetiva.WebUI\\Diyetiva.WebUI.csproj|c:\\users\\gulen\\source\\repos\\diyetiva\\diyetiva.webui\\views\\shared\\components\\_defaultmenuproductcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FD150D9-7398-4A2A-B728-843BB9E30789}|Diyetiva.WebUI\\Diyetiva.WebUI.csproj|solutionrelative:diyetiva.webui\\views\\shared\\components\\_defaultmenuproductcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD150D9-7398-4A2A-B728-843BB9E30789}|Diyetiva.WebUI\\Diyetiva.WebUI.csproj|c:\\users\\gulen\\source\\repos\\diyetiva\\diyetiva.webui\\views\\shared\\components\\_defaultmenuviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FD150D9-7398-4A2A-B728-843BB9E30789}|Diyetiva.WebUI\\Diyetiva.WebUI.csproj|solutionrelative:diyetiva.webui\\views\\shared\\components\\_defaultmenuviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD150D9-7398-4A2A-B728-843BB9E30789}|Diyetiva.WebUI\\Diyetiva.WebUI.csproj|c:\\users\\gulen\\source\\repos\\diyetiva\\diyetiva.webui\\views\\shared\\components\\_defaultmenucategorycomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FD150D9-7398-4A2A-B728-843BB9E30789}|Diyetiva.WebUI\\Diyetiva.WebUI.csproj|solutionrelative:diyetiva.webui\\views\\shared\\components\\_defaultmenucategorycomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8FD150D9-7398-4A2A-B728-843BB9E30789}|Diyetiva.WebUI\\Diyetiva.WebUI.csproj|c:\\users\\gulen\\source\\repos\\diyetiva\\diyetiva.webui\\views\\shared\\components\\_servicedefaultcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8FD150D9-7398-4A2A-B728-843BB9E30789}|Diyetiva.WebUI\\Diyetiva.WebUI.csproj|solutionrelative:diyetiva.webui\\views\\shared\\components\\_servicedefaultcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD150D9-7398-4A2A-B728-843BB9E30789}|Diyetiva.WebUI\\Diyetiva.WebUI.csproj|c:\\users\\gulen\\source\\repos\\diyetiva\\diyetiva.webui\\viewcomponents\\defaultmenuviewcomponents\\_defaultmenuviewcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD150D9-7398-4A2A-B728-843BB9E30789}|Diyetiva.WebUI\\Diyetiva.WebUI.csproj|solutionrelative:diyetiva.webui\\viewcomponents\\defaultmenuviewcomponents\\_defaultmenuviewcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,8 +33,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 1325,
-          "SelectedChildIndex": 5,
+          "DockedWidth": 464,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,47 +50,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NedenKubraAkkurt.txt",
-              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\Diyetiva\\Diyetiva.WebUI\\Requirements\\NedenKubraAkkurt.txt",
-              "RelativeDocumentMoniker": "Diyetiva.WebUI\\Requirements\\NedenKubraAkkurt.txt",
-              "ToolTip": "C:\\Users\\gulen\\source\\repos\\Diyetiva\\Diyetiva.WebUI\\Requirements\\NedenKubraAkkurt.txt",
-              "RelativeToolTip": "Diyetiva.WebUI\\Requirements\\NedenKubraAkkurt.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-08-02T14:45:27.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\Diyetiva\\Diyetiva.WebUI\\Views\\Shared\\Components\\_ServiceDefaultComponentPartial\\Default.cshtml",
-              "RelativeDocumentMoniker": "Diyetiva.WebUI\\Views\\Shared\\Components\\_ServiceDefaultComponentPartial\\Default.cshtml",
-              "ToolTip": "C:\\Users\\gulen\\source\\repos\\Diyetiva\\Diyetiva.WebUI\\Views\\Shared\\Components\\_ServiceDefaultComponentPartial\\Default.cshtml",
-              "RelativeToolTip": "Diyetiva.WebUI\\Views\\Shared\\Components\\_ServiceDefaultComponentPartial\\Default.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAACbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-02T14:35:07.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\Diyetiva\\Diyetiva.WebUI\\Views\\Default\\Index.cshtml",
               "RelativeDocumentMoniker": "Diyetiva.WebUI\\Views\\Default\\Index.cshtml",
               "ToolTip": "C:\\Users\\gulen\\source\\repos\\Diyetiva\\Diyetiva.WebUI\\Views\\Default\\Index.cshtml",
               "RelativeToolTip": "Diyetiva.WebUI\\Views\\Default\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-02T12:04:28.365Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\Diyetiva\\Diyetiva.WebUI\\Views\\Shared\\Components\\_DefaultMenuProductComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Diyetiva.WebUI\\Views\\Shared\\Components\\_DefaultMenuProductComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\gulen\\source\\repos\\Diyetiva\\Diyetiva.WebUI\\Views\\Shared\\Components\\_DefaultMenuProductComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "Diyetiva.WebUI\\Views\\Shared\\Components\\_DefaultMenuProductComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-03T14:00:09.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\Diyetiva\\Diyetiva.WebUI\\Views\\Shared\\Components\\_DefaultMenuViewComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Diyetiva.WebUI\\Views\\Shared\\Components\\_DefaultMenuViewComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\gulen\\source\\repos\\Diyetiva\\Diyetiva.WebUI\\Views\\Shared\\Components\\_DefaultMenuViewComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "Diyetiva.WebUI\\Views\\Shared\\Components\\_DefaultMenuViewComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-03T12:37:15.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\Diyetiva\\Diyetiva.WebUI\\Views\\Shared\\Components\\_DefaultMenuCategoryComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Diyetiva.WebUI\\Views\\Shared\\Components\\_DefaultMenuCategoryComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\gulen\\source\\repos\\Diyetiva\\Diyetiva.WebUI\\Views\\Shared\\Components\\_DefaultMenuCategoryComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "Diyetiva.WebUI\\Views\\Shared\\Components\\_DefaultMenuCategoryComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-03T13:27:04.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\Diyetiva\\Diyetiva.WebUI\\Views\\Shared\\Components\\_ServiceDefaultComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Diyetiva.WebUI\\Views\\Shared\\Components\\_ServiceDefaultComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\gulen\\source\\repos\\Diyetiva\\Diyetiva.WebUI\\Views\\Shared\\Components\\_ServiceDefaultComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "Diyetiva.WebUI\\Views\\Shared\\Components\\_ServiceDefaultComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-03T12:44:57.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_DefaultMenuViewComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\Diyetiva\\Diyetiva.WebUI\\ViewComponents\\DefaultMenuViewComponents\\_DefaultMenuViewComponentPartial.cs",
+              "RelativeDocumentMoniker": "Diyetiva.WebUI\\ViewComponents\\DefaultMenuViewComponents\\_DefaultMenuViewComponentPartial.cs",
+              "ToolTip": "C:\\Users\\gulen\\source\\repos\\Diyetiva\\Diyetiva.WebUI\\ViewComponents\\DefaultMenuViewComponents\\_DefaultMenuViewComponentPartial.cs",
+              "RelativeToolTip": "Diyetiva.WebUI\\ViewComponents\\DefaultMenuViewComponents\\_DefaultMenuViewComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:35:21.903Z"
             }
           ]
         },
         {
-          "DockedWidth": 386,
+          "DockedWidth": 1247,
           "SelectedChildIndex": -1,
           "Children": [
             {

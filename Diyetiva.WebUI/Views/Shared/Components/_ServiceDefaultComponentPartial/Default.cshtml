@@ -1,4 +1,5 @@
-﻿<section id="why-us" class="why-us section light-background">
+﻿@model List<Diyetiva.WebUI.Dtos.ServiceDtos.ResultServiceDto>
+<section id="why-us" class="why-us section light-background">
 
     <div class="container">
 
@@ -11,7 +12,7 @@
                         Kübra Akkurt'u seçmek, standart diyet listeleri yerine size özel, sürdürülebilir beslenme alışkanlıkları kazanmanız için bir başlangıçtır. Amacı sadece kısa vadeli kilo kaybı değil, sağlıklı bir yaşam tarzını kalıcı hale getirerek yaşam kalitenizi artırmaktır. Bu yolculukta size destek olan ve motive eden bir rehber olarak yanınızda olur.
                     </p>
                     <div class="text-center">
-                        <a href="#" class="more-btn"><span>Learn More</span> <i class="bi bi-chevron-right"></i></a>
+                        <a href="#" class="more-btn"><span>Daha Fazla Bilgi</span> <i class="bi bi-chevron-right"></i></a>
                     </div>
                 </div>
             </div><!-- End Why Box -->
@@ -19,29 +20,16 @@
             <div class="col-lg-8 d-flex align-items-stretch">
                 <div class="row gy-4" data-aos="fade-up" data-aos-delay="200">
 
-                    <div class="col-xl-4">
-                        <div class="icon-box d-flex flex-column justify-content-center align-items-center">
-                            <i class="bi bi-clipboard-data"></i>
-                            <h4>Sağlıklı Bir Yaşama Yolculuk</h4>
-                            <p>Sağlıklı bir bedene ve zihne ulaşmak için çıktığınız bu yolculukta, size özel ve sürdürülebilir beslenme alışkanlıkları kazandırmak için yanınızdayım.</p>
+                    @foreach (var item in Model)
+                    {
+                        <div class="col-xl-4">
+                            <div class="icon-box d-flex flex-column justify-content-center align-items-center">
+                                <i class="@item.IconUrl"></i>
+                                <h4>@item.Title</h4>
+                                <p>@item.Description</p>
+                            </div>
                         </div>
-                    </div><!-- End Icon Box -->
-
-                    <div class="col-xl-4" data-aos="fade-up" data-aos-delay="300">
-                        <div class="icon-box d-flex flex-column justify-content-center align-items-center">
-                            <i class="bi bi-gem"></i>
-                            <h4>Bilim ve Bütüncül Yaklaşım</h4>
-                            <p>Beslenme programlarımı güncel bilimsel verilere dayandırıyor, fiziksel ve zihinsel sağlığınızı bütünsel olarak ele alıyorum.</p>
-                        </div>
-                    </div><!-- End Icon Box -->
-
-                    <div class="col-xl-4" data-aos="fade-up" data-aos-delay="400">
-                        <div class="icon-box d-flex flex-column justify-content-center align-items-center">
-                            <i class="bi bi-inboxes"></i>
-                            <h4>Değişim Sizinle Başlar</h4>
-                            <p>Kalıcı değişim, dışarıdan gelen kurallarla değil, sizin aldığınız kararlarla başlar. Bu yolculukta ben sadece size rehberlik ediyorum.</p>
-                        </div>
-                    </div><!-- End Icon Box -->
+                    }
 
                 </div>
             </div>
